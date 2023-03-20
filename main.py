@@ -1,4 +1,4 @@
-#Author: Spase Sandoval
+#Author: spasemax0
 #python script for detecting and cleaning out trojans on windows systems for testing use only
 
 import os
