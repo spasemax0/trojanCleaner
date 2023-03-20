@@ -1,5 +1,5 @@
 #author: Spase Sandoval
-#bash trojan bomb for linux systems, dont use on personal without backup
+#bash trojan bomb for linux systems, for testing only dont use on personal without backup
 
 #!/bin/bash
 
