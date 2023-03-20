@@ -1,4 +1,4 @@
-#author: Spase Sandoval
+#Author: spasemax0
 #bash trojan bomb for linux systems, for testing only dont use on personal without backup
 
 #!/bin/bash
