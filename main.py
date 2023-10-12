@@ -1,5 +1,6 @@
 #Author: spasemax0
 #python script for detecting and cleaning out trojans on windows systems for testing use only
+#store malware hashes in signature database, run against directory
 
 import os
 import shutil
