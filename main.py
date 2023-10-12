@@ -1,5 +1,5 @@
 #Author: spasemax0
-#python script for detecting and cleaning out trojans on windows systems for testing use only
+#python script for detecting and cleaning out trojans on windows systems for testing use only dont want to accidentally delete anything important! simple and not super practical but an example of how one could work
 #store malware hashes in signature database, run against directory
 
 import os
